@@ -1,0 +1,8 @@
+
+
+SweetAlert2
+
+- Download => SweetAlert2
+- Letakan File SweetAlert2 di => folder Assets -> folder js
+- Setting di bagian => Footer untuk memanggil SweetAlert2
+- Silakan gunakan SweetAlert2 sesuai keinginan
